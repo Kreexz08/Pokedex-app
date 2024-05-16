@@ -1,6 +1,6 @@
 En este proyecto se desplego en la nube de azure, la cual se inicio de manera gratuita con el plan Azure for Students https://azure.microsoft.com/es-es/free/students
 
-Pasos:
+# Pasos:
 
 1. Acceso al portal: Ingresa a la página de Azure for Students: https://azure.microsoft.com/es-es/free/students
 
