@@ -25,7 +25,7 @@
 #### Pero tendra problemas de seguridad en los encabezados de los headers y para esto lo configuraremos
 #### 10. Creamos un archivo llamado web.config
 #### 11. Le agregamos las directivas para seguridad y luego de esto miramos bien que no se haya afectado los estilos y revisamos en la pagina https://securityheaders.com/
-#### a continuacion se puede ver el resultado de los encabezados de seguridad de este despliegue
+#### en la pagina ponemos el enlace de la aplicacion, en este caso el de la mia es app-pokedex.azurewebsites.net y a continuacion se muestra los resultados:
 ![evidencia 5](https://github.com/Kreexz08/Pokedex-app/assets/141959642/c9914964-579b-4678-92eb-ba8d98b07091)
 
 #### En este caso no salio A+ porque al quitar la directris "unsafe-inline" en los scripts se pierden algunos estilos en la vista porque usan Javascript, pero si se hace, saldra A+ como se puede ver a continuacion:
