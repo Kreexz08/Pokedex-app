@@ -11,3 +11,11 @@ En este proyecto se desplego en la nube de azure, la cual se inicio de manera gr
 4. Activación de beneficios: Una vez verificado, tendrás acceso a los créditos gratuitos y podrás comenzar a explorar los servicios de Azure.
 
 Nota: La cuenta Azure for Students tiene ciertas limitaciones en cuanto a los recursos que puedes usar. Sin embargo, es una excelente manera de comenzar a aprender sobre la nube y experimentar con diferentes tecnologías.
+
+
+## Integrantes y portafolios:
+#### Luis Cantillo - github.com/CantilloLuis - https://kind-bush-04f5a510f.5.azurestaticapps.net
+#### Daniel Ortiz - github.com/Danielprogramin - https://lemon-mushroom-02765aa0f.5.azurestaticapps.net/
+#### Nunma Arias - github.com/Kreexz08 - https://blue-tree-0ea00ea0f.5.azurestaticapps.net
+#### Anderson Mendoza - github.com/andermendz - https://gray-smoke-0b4e37410.5.azurestaticapps.net/
+#### Edwin Torres - 
