@@ -1,5 +1,12 @@
 # Despliegue en Azure
 
+## Integrantes y portafolios:
+### Luis Cantillo - github.com/CantilloLuis - https://kind-bush-04f5a510f.5.azurestaticapps.net
+### Daniel Ortiz - github.com/Danielprogramin - https://lemon-mushroom-02765aa0f.5.azurestaticapps.net/
+### Nunma Arias - github.com/Kreexz08 - https://blue-tree-0ea00ea0f.5.azurestaticapps.net
+### Anderson Mendoza - github.com/andermendz - https://gray-smoke-0b4e37410.5.azurestaticapps.net/
+### Edwin Torres - 
+
 ## Pasos utilizados para el despliegue
 
 #### 1. Nos vamos a git y usamos los comandos npm install y npm run build con el proyecto
