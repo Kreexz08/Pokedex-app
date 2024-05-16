@@ -10,7 +10,7 @@
 
 #### 4. Activación de beneficios: Una vez verificado, tendrás acceso a los créditos gratuitos y podrás comenzar a explorar los servicios de Azure.
 
-## Nota: La cuenta Azure for Students tiene ciertas limitaciones en cuanto a los recursos que puedes usar. Sin embargo, es una excelente manera de comenzar a aprender sobre la nube y experimentar con diferentes tecnologías.
+#### Nota: La cuenta Azure for Students tiene ciertas limitaciones en cuanto a los recursos que puedes usar. Sin embargo, es una excelente manera de comenzar a aprender sobre la nube y experimentar con diferentes tecnologías.
 
 
 ## Integrantes y portafolios:
