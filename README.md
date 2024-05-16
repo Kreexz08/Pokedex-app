@@ -1,36 +1,13 @@
-# Pokédex Angular
+En este proyecto se desplego en la nube de azure, la cual se inicio de manera gratuita con el plan Azure for Students https://azure.microsoft.com/es-es/free/students
 
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![codecov](https://codecov.io/gh/keilermora/pokedex-angular/branch/master/graph/badge.svg?token=9E0D28IOFT)](https://codecov.io/gh/keilermora/pokedex-angular)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+Pasos:
 
-[https://keilermora.github.io/pokedex-angular/](https://keilermora.github.io/pokedex-angular/)
+1. Acceso al portal: Ingresa a la página de Azure for Students: https://azure.microsoft.com/es-es/free/students
 
-La aplicación muestra el listado y el detalle de los Pokémon de las primeras 3 generaciones.
+2. Inicio de sesión: Haz clic en "Inicia gratis" e ingresa con tu cuenta Microsoft (la misma que usas para Outlook, OneDrive, etc.). Si no tienes una cuenta Microsoft, puedes crearla gratuitamente.
 
-La imagen que representa un Pokémon en el listado muestra las variaciones que estos tuvieron durante las primeras versiones, desde la versión Green (1996) hasta la version Emerald (2005).
+3. Verificación de estudiante: Azure te pedirá verificar tu estado de estudiante. Esto puede implicar proporcionar tu correo electrónico institucional o algún otro tipo de prueba.
 
-Los detalles de un Pokémon individual muestra sus estadísticas base y los registros de la Pokédex de las diferentes versiones.
+4. Activación de beneficios: Una vez verificado, tendrás acceso a los créditos gratuitos y podrás comenzar a explorar los servicios de Azure.
 
-El proyecto fue desarrollado usando la librería de JavaScript [Angular](https://angular.io/) para crear la interfaz de usuario, en comunicación con la Api RESTful [PokéAPI](https://pokeapi.co/).
-
-## Requisitos mínimos
-
-- [Nodejs](https://nodejs.org) con soporte de largo plazo (LTS).
-- Un navegador web
-
-## Ambiente de pruebas
-
-Ejecutar en la raíz del proyecto:
-
-```
-npm start
-```
-
-## Referencias
-
-- [Angular](https://angular.io/): One framework.
-- [Angular Folder Structure](https://angular-folder-structure.readthedocs.io/en/latest/): Create a skeleton structure which is flexible for projects big or small.
-- [Font Awesome](https://fontawesome.com/): The web's most popular icon set and toolkit.
-- [Normalize.css](https://necolas.github.io/normalize.css/): A modern, HTML5-ready alternative to CSS resets.
-- [PokéAPI](https://pokeapi.co/): The RESTful Pokémon API.
+Nota: La cuenta Azure for Students tiene ciertas limitaciones en cuanto a los recursos que puedes usar. Sin embargo, es una excelente manera de comenzar a aprender sobre la nube y experimentar con diferentes tecnologías.
