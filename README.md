@@ -18,4 +18,4 @@
 #### Daniel Ortiz - github.com/Danielprogramin - https://lemon-mushroom-02765aa0f.5.azurestaticapps.net/
 #### Nunma Arias - github.com/Kreexz08 - https://blue-tree-0ea00ea0f.5.azurestaticapps.net
 #### Anderson Mendoza - github.com/andermendz - https://gray-smoke-0b4e37410.5.azurestaticapps.net/
-#### Edwin Torres - 
+#### Edwin Torres - github.com/EdTowers1 - https://brave-water-0d03bd810.5.azurestaticapps.net
